@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Django%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,30&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Django%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" alt="Header" />
 </div>
+
 
 ---
 
