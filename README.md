@@ -17,28 +17,6 @@ I'm a passionate **Full-Stack Django Developer** with expertise in building robu
 
 ---
 
-## 🚀 Featured Projects
-
-### E-Commerce Platform
-**[🛒 ShopNow](https://github.com/Huerte/ShopNow)** | *Django, Bootstrap, SQLite*
-> Complete e-commerce solution featuring user authentication, shopping cart functionality, and comprehensive product catalog management. Built with responsive design principles for optimal mobile experience.
-
-### Q&A Community Platform
-**[💬 Askithub](https://github.com/Huerte/askithub)** | *Django, PostgreSQL, REST API*
-> StackOverflow-inspired question & answer platform with advanced features including user authentication, real-time commenting, voting system, and sophisticated search capabilities.
-
-### Morse Code Translator
-**[📡 morseCoder](https://github.com/Huerte/morseCoder)** | *Django, JavaScript, Bootstrap*
-> Interactive web-based morse code translation tool with real-time character conversion, audio playback functionality, and intuitive user interface designed for accessibility.
-
-### Weather Application
-**[🌦 Weather Forecast](https://github.com/Huerte/weather-forecast-pyqt5)** | *PyQt5, Python, REST API*
-> Cross-platform desktop application providing real-time weather data through API integration, featuring an intuitive interface and comprehensive weather information display.
-
-➡️ **Explore more projects:** [View All Repositories](https://github.com/Huerte?tab=repositories)
-
----
-
 ## 🛠️ Technology Stack
 
 ### **Backend Development**
@@ -73,22 +51,6 @@ I'm a passionate **Full-Stack Django Developer** with expertise in building robu
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huerte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&text_color=ffffff" alt="Top Languages" />
 </div>
-
----
-
-## 🎯 Current Focus & Goals
-
-### **Professional Development**
-- 🔧 **Code Quality Enhancement** - Implementing comprehensive testing strategies and code review processes
-- 🚀 **Performance Optimization** - Enhancing application speed, efficiency, and user experience
-- 📱 **Mobile-First Development** - Creating responsive, accessible web applications for all devices
-- 🌐 **API Architecture** - Building robust, scalable RESTful services with proper documentation
-
-### **Learning & Growth**
-- 📚 **Continuous Learning** - Staying updated with latest technologies, frameworks, and best practices
-- 🛠️ **Tool Mastery** - Deepening expertise in Django ecosystem and modern development tools
-- 🎨 **UI/UX Excellence** - Improving design skills and user experience optimization
-- 🔒 **Security Best Practices** - Implementing secure coding practices and data protection
 
 ---
 
