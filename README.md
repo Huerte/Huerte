@@ -6,7 +6,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Django Developer** with expertise in building robust, scalable web applications. My journey in software development is driven by a love for clean code, innovative solutions, and creating impactful user experiences that solve real-world problems.
+I'm an aspiring Full-Stack Django Developer who loves to learn and explore new technologies.  
+Curious by nature, I enjoy experimenting with code, building projects, and improving my skills every day.  
+I aim to turn ideas into real applications while learning as much as possible along the way.
 
 ### 🎯 Core Competencies
 - **Full-Stack Development** with Django & Python ecosystem
