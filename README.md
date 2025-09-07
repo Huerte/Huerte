@@ -13,13 +13,6 @@ I'm an aspiring Full-Stack Django Developer who loves to learn and explore new t
 Curious by nature, I enjoy experimenting with code, building projects, and improving my skills every day.  
 I aim to turn ideas into real applications while learning as much as possible along the way.
 
-### 🎯 Core Competencies
-- **Full-Stack Development** with Django & Python ecosystem
-- **Responsive Web Design** using Bootstrap and modern CSS techniques
-- **RESTful API Development** and database optimization strategies
-- **Cloud Deployment** and DevOps practices on Render platform
-- **Code Quality Assurance** through comprehensive testing and best practices
-
 ---
 
 ## 🛠️ Technology Stack
