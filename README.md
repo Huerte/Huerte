@@ -7,14 +7,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an aspiring Full-Stack Django Developer who loves to learn and explore new technologies.  
-Curious by nature, I enjoy experimenting with code, building projects, and improving my skills every day.  
-I aim to turn ideas into real applications while learning as much as possible along the way.
-
----
-
 ## 🛠️ Technology Stack
 
 ### **Backend Development**
