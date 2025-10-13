@@ -10,20 +10,21 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-ff8a65.svg?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-00ADD9.svg?style=flat&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Django_REST-ff8a65.svg?style=for-the-badge&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="70" />
+  <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Render-00ADD9.svg?style=for-the-badge&logo=render&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" height="70" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="70" />
 </p>
+
 
 ---
 
