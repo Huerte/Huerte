@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:061904,25:165711,50:1e9b17,75:46c147,100:9adba1&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Django%20Developer%20|%20Python%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061904,25:165711,50:1e9b17,75:46c147,100:9adba1&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=ffffff"
     alt="Header"
   />
 </div>
@@ -65,12 +65,3 @@ I'm always open to:
 - **Open Source Contributions** - Collaborating on interesting projects
 - **Technical Discussions** - Sharing knowledge and learning from others
 - **Freelance Opportunities** - Building custom web applications
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Huerte&style=flat-square&color=blue" alt="Profile Views" />
-  
-  <p><em>Thanks for visiting my profile! Feel free to reach out for collaborations, questions, or just to say hello! 👋</em></p>
-  
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
-</div>
