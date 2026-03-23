@@ -1,8 +1,10 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:061904,25:165711,50:1e9b17,75:46c147,100:9adba1&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=ffffff"
-    alt="Header"
-  />
+  <a href="https://tinyurl.com/msjer82z">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:061904,25:165711,50:1e9b17,75:46c147,100:9adba1&height=300&section=header&text=Hello,%20I'm%20Jerald!&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=ffffff"
+      alt="Header"
+    />
+  </a>
 </div>
 
 ---
