@@ -9,7 +9,11 @@
 
 ---
 
-## 💻 Tech Stack
+I like building tools that solve real problems - mostly in Python. Currently maintaining [GitGo](https://github.com/Huerte/GitGo), an open source CLI tool published on PyPI.
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="70" />
@@ -27,10 +31,19 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="70" />
 </p>
 
+---
+
+## Featured Project
+
+<div align="center">
+  <a href="https://github.com/Huerte/GitGo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huerte&repo=GitGo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&text_color=ffffff" />
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Huerte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&text_color=ffffff" alt="GitHub Stats" />
@@ -42,7 +55,17 @@
 
 ---
 
-## 📫 Let's Connect
+## Codewars
+
+<div align="center">
+  <a href="https://www.codewars.com/users/JZProjects">
+    <img src="https://www.codewars.com/users/JZProjects/badges/large" alt="Codewars" />
+  </a>
+</div>
+
+---
+
+## Let's Connect
 
 <div align="center">
   <a href="mailto:huertejerald@gmail.com">
@@ -61,9 +84,8 @@
 
 ---
 
-## 🤝 Collaboration
+## Open to
 
-I'm always open to:
-- **Open Source Contributions** - Collaborating on interesting projects
-- **Technical Discussions** - Sharing knowledge and learning from others
-- **Freelance Opportunities** - Building custom web applications
+- Collaborating on Python or CLI related projects
+- Backend web development using Django or Django REST Framework
+- Freelance web application projects
