@@ -14,6 +14,7 @@ I build tools that solve real problems — mostly in Python. Currently maintaini
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Django_REST-ff8a65.svg?style=for-the-badge&logoColor=white" height="28" />
