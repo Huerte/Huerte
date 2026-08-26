@@ -1,17 +1,30 @@
-# Hi, I'm Jerald
+<div align="center">
+
+# Hi, I'm Jerald 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&pause=700&color=6A5ACD&center=true&vCenter=true&width=900&lines=Started+coding+on+a+phone;Now+I+build+CLI+tools+for+fun;Maintainer+of+GitGo+on+PyPI;I+love+Python;I+hate+math;My+code+works%2C+don%27t+ask+me+why;Bugs+fear+me%2C+mostly+because+I+can%27t+find+them+either;I+solve+Rubik%27s+cubes%2C+even+the+weird+ones" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Huerte&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-007ACC?style=for-the-badge&logo=arduino&logoColor=white" alt="Computer Engineering Student" />
+</p>
 
 <a href="mailto:huertejerald@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 <a href="https://www.linkedin.com/in/huertejerald"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
 <a href="https://facebook.com/huertejerald.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" /></a>
 <a href="https://tinyurl.com/msjer82z"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
 
-I build tools that solve real problems, focusing primarily on Python. Currently maintaining [GitGo](https://github.com/Huerte/GitGo), an open source CLI tool published on PyPI.
+I build tools that solve real problems, focusing primarily on Python. Currently maintaining [GitGo](https://github.com/Huerte/GitGo), an open source CLI tool published on PyPI. Learned to code on a phone before I owned a laptop, so I don't complain much about tooling anymore.
+
+</div>
 
 ---
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
