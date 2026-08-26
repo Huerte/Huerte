@@ -2,7 +2,7 @@
 
 # Hi, I'm Jerald 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&pause=700&color=6A5ACD&center=true&vCenter=true&width=700&lines=Started+coding+on+a+phone;Now+I+build+CLI+tools+for+fun;Maintainer+of+GitGo+on+PyPI;I+love+Python;I+hate+math;My+code+works%2C+don%27t+ask+me+why;Bugs+fear+me%2C+mostly+because+I+can%27t+find+them+either;I+solve+Rubik%27s+cubes%2C+even+the+weird+ones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=370&size=27&pause=700&color=6A5ACD&center=true&vCenter=true&width=700&lines=Started+coding+on+a+phone;Now+I+build+CLI+tools+for+fun;Maintainer+of+GitGo+on+PyPI;I+love+Python;I+hate+math;My+code+works%2C+don%27t+ask+me+why;I+solve+Rubik%27s+cubes%2C+even+the+weird+ones" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Huerte&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
