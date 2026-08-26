@@ -16,7 +16,9 @@
 <a href="https://facebook.com/huertejerald.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" /></a>
 <a href="https://tinyurl.com/msjer82z"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
 
-I build tools that solve real problems, focusing primarily on Python. Currently maintaining [GitGo](https://github.com/Huerte/GitGo), an open source CLI tool published on PyPI. Learned to code on a phone before I owned a laptop, so I don't complain much about tooling anymore.
+<p>
+  I build tools that solve real problems, focusing primarily on Python. Currently maintaining <a href="https://github.com/Huerte/GitGo">GitGo</a>, an open source CLI tool published on PyPI. Learned to code on a phone before I owned a laptop, so I don't complain much about tooling anymore.
+</p>
 
 </div>
 
